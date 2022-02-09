@@ -7,7 +7,11 @@
 - 🍕 Apaixonado por pizza;
 - 💻 Imerso na programação desde os 10 anos.
 
+```js
+const nicolas = {
 
+}
+```
 
  <div align="center">
 
