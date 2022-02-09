@@ -5,7 +5,7 @@
 
 - 📘 Estudante de TI;
 - 🍕 Apaixonado por pizza;
-- 💻 Programador desde os 10 anos.
+- 💻 Imerso na programação desde os 10 anos.
 
 <br>
 </p>
