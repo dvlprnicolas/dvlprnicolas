@@ -9,7 +9,9 @@
 
 ```js
 const nicolas = {
-
+    pronomes: "ele" | "dele",
+    code: [JavaScript, Java, TypeScript],
+    aboutMe: ["desenvolvedor", "estudante", "amante de jogos"] 
 }
 ```
 
