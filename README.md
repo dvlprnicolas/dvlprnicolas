@@ -7,6 +7,11 @@
 - 🍕 Apaixonado por pizza;
 - 💻 Imerso na programação desde os 10 anos.
 
+ <div align="center">
+
+ ### • Linguagens e Ferramentas
+ </div>
+
 <br>
 </p>
 
