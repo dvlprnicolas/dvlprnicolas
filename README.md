@@ -7,6 +7,8 @@
 - 🍕 Apaixonado por pizza;
 - 💻 Imerso na programação desde os 10 anos.
 
+![HelloWorld](https://cdn.discordapp.com/attachments/757413315851845779/941030635798155344/giphy.gif)
+
  <div align="center">
 
  ### • Linguagens e Ferramentas
