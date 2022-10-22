@@ -14,4 +14,4 @@
 ```
 
 - 🔭 I currently work as a back-end developer in Valhalla;
-- 💻 CTO of @skyebot
+- 💻 CTO of [SkyeBot](https://skyebot.website);
