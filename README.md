@@ -12,3 +12,6 @@
     funFact: "Working with programming since the age of 10."
   }
 ```
+
+- 🔭 I currently work as a back-end developer in Valhalla;
+- 💻 CTO of @skyebot
