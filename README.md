@@ -8,7 +8,7 @@
 ```javascript
   const nicolas = {
     pronouns: "He" | "Him",
-    code: ["JavaScript, "TypeScript", "Java", "C++"]
+    code: ["JavaScript, "TypeScript", "Java", "C++"],
     funFact: "Working with programming since the age of 10."
   }
 ```
